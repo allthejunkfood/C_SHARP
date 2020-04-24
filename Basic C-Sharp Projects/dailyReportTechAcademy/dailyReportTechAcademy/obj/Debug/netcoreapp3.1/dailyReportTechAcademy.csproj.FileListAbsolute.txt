@@ -1,0 +1,13 @@
+C:\Users\rconley\Documents\GitHub\C_SHARP\Basic C-Sharp Projects\dailyReportTechAcademy\dailyReportTechAcademy\bin\Debug\netcoreapp3.1\dailyReportTechAcademy.exe
+C:\Users\rconley\Documents\GitHub\C_SHARP\Basic C-Sharp Projects\dailyReportTechAcademy\dailyReportTechAcademy\bin\Debug\netcoreapp3.1\dailyReportTechAcademy.deps.json
+C:\Users\rconley\Documents\GitHub\C_SHARP\Basic C-Sharp Projects\dailyReportTechAcademy\dailyReportTechAcademy\bin\Debug\netcoreapp3.1\dailyReportTechAcademy.runtimeconfig.json
+C:\Users\rconley\Documents\GitHub\C_SHARP\Basic C-Sharp Projects\dailyReportTechAcademy\dailyReportTechAcademy\bin\Debug\netcoreapp3.1\dailyReportTechAcademy.runtimeconfig.dev.json
+C:\Users\rconley\Documents\GitHub\C_SHARP\Basic C-Sharp Projects\dailyReportTechAcademy\dailyReportTechAcademy\bin\Debug\netcoreapp3.1\dailyReportTechAcademy.dll
+C:\Users\rconley\Documents\GitHub\C_SHARP\Basic C-Sharp Projects\dailyReportTechAcademy\dailyReportTechAcademy\bin\Debug\netcoreapp3.1\dailyReportTechAcademy.pdb
+C:\Users\rconley\Documents\GitHub\C_SHARP\Basic C-Sharp Projects\dailyReportTechAcademy\dailyReportTechAcademy\obj\Debug\netcoreapp3.1\dailyReportTechAcademy.csprojAssemblyReference.cache
+C:\Users\rconley\Documents\GitHub\C_SHARP\Basic C-Sharp Projects\dailyReportTechAcademy\dailyReportTechAcademy\obj\Debug\netcoreapp3.1\dailyReportTechAcademy.csproj.CoreCompileInputs.cache
+C:\Users\rconley\Documents\GitHub\C_SHARP\Basic C-Sharp Projects\dailyReportTechAcademy\dailyReportTechAcademy\obj\Debug\netcoreapp3.1\dailyReportTechAcademy.AssemblyInfoInputs.cache
+C:\Users\rconley\Documents\GitHub\C_SHARP\Basic C-Sharp Projects\dailyReportTechAcademy\dailyReportTechAcademy\obj\Debug\netcoreapp3.1\dailyReportTechAcademy.AssemblyInfo.cs
+C:\Users\rconley\Documents\GitHub\C_SHARP\Basic C-Sharp Projects\dailyReportTechAcademy\dailyReportTechAcademy\obj\Debug\netcoreapp3.1\dailyReportTechAcademy.dll
+C:\Users\rconley\Documents\GitHub\C_SHARP\Basic C-Sharp Projects\dailyReportTechAcademy\dailyReportTechAcademy\obj\Debug\netcoreapp3.1\dailyReportTechAcademy.pdb
+C:\Users\rconley\Documents\GitHub\C_SHARP\Basic C-Sharp Projects\dailyReportTechAcademy\dailyReportTechAcademy\obj\Debug\netcoreapp3.1\dailyReportTechAcademy.genruntimeconfig.cache
