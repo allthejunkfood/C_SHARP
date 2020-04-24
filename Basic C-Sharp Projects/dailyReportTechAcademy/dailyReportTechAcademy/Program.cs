@@ -4,7 +4,7 @@ namespace dailyReportTechAcademy
 {
     class Program
     {
-        static void Main()
+        static object Main()
         {
             Console.WriteLine("The Tech Acadmey");
             Console.WriteLine();
@@ -29,6 +29,10 @@ namespace dailyReportTechAcademy
             string studyHours = Console.ReadLine();
             Console.WriteLine();
             Console.WriteLine("Thank you for your answers. An instructor will respond to this shortly. Have a great day!");
+
+            int num1 = 200 / 3;
+            Console.WriteLine(num1);
+            Console.ReadLine();
         }
     }
 }

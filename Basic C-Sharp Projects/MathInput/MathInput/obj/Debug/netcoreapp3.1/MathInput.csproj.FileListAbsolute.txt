@@ -1,0 +1,13 @@
+C:\Users\rconley\Documents\GitHub\C_SHARP\Basic C-Sharp Projects\MathInput\MathInput\bin\Debug\netcoreapp3.1\MathInput.exe
+C:\Users\rconley\Documents\GitHub\C_SHARP\Basic C-Sharp Projects\MathInput\MathInput\bin\Debug\netcoreapp3.1\MathInput.deps.json
+C:\Users\rconley\Documents\GitHub\C_SHARP\Basic C-Sharp Projects\MathInput\MathInput\bin\Debug\netcoreapp3.1\MathInput.runtimeconfig.json
+C:\Users\rconley\Documents\GitHub\C_SHARP\Basic C-Sharp Projects\MathInput\MathInput\bin\Debug\netcoreapp3.1\MathInput.runtimeconfig.dev.json
+C:\Users\rconley\Documents\GitHub\C_SHARP\Basic C-Sharp Projects\MathInput\MathInput\bin\Debug\netcoreapp3.1\MathInput.dll
+C:\Users\rconley\Documents\GitHub\C_SHARP\Basic C-Sharp Projects\MathInput\MathInput\bin\Debug\netcoreapp3.1\MathInput.pdb
+C:\Users\rconley\Documents\GitHub\C_SHARP\Basic C-Sharp Projects\MathInput\MathInput\obj\Debug\netcoreapp3.1\MathInput.csprojAssemblyReference.cache
+C:\Users\rconley\Documents\GitHub\C_SHARP\Basic C-Sharp Projects\MathInput\MathInput\obj\Debug\netcoreapp3.1\MathInput.csproj.CoreCompileInputs.cache
+C:\Users\rconley\Documents\GitHub\C_SHARP\Basic C-Sharp Projects\MathInput\MathInput\obj\Debug\netcoreapp3.1\MathInput.AssemblyInfoInputs.cache
+C:\Users\rconley\Documents\GitHub\C_SHARP\Basic C-Sharp Projects\MathInput\MathInput\obj\Debug\netcoreapp3.1\MathInput.AssemblyInfo.cs
+C:\Users\rconley\Documents\GitHub\C_SHARP\Basic C-Sharp Projects\MathInput\MathInput\obj\Debug\netcoreapp3.1\MathInput.dll
+C:\Users\rconley\Documents\GitHub\C_SHARP\Basic C-Sharp Projects\MathInput\MathInput\obj\Debug\netcoreapp3.1\MathInput.pdb
+C:\Users\rconley\Documents\GitHub\C_SHARP\Basic C-Sharp Projects\MathInput\MathInput\obj\Debug\netcoreapp3.1\MathInput.genruntimeconfig.cache
